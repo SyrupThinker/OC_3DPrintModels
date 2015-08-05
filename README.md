@@ -17,4 +17,4 @@ You can edit the  .vox files with <a href="https://ephtracy.github.io/">MagicaVo
 <a href="http://oc.cil.li/index.php?/topic/599-magicavoxel-vox-converter-for-print3d/?hl=model">Krutoy242</a>, the creator of the MagicaVoxel to print3d converter<br>
 <a href="https://ephtracy.github.io/">Ephtracy</a>, the creator of MagicaVoxel<br>
 and all people giving me ideas for new models.
-And of course the great OpenComputer Team
+And of course the great OpenComputers Team
