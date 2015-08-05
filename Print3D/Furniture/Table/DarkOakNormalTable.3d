@@ -1,0 +1,15 @@
+{
+  label = "Normal Dark Oak Table",
+  tooltip = "Querdenker_9 Voxel Design",
+  shapes = {
+    { 0,0,0,1,14,2,texture = "planks_big_oak", tint = 0xe3916e },
+    { 0,0,14,1,14,16,texture = "planks_big_oak", tint = 0xe3916e },
+    { 1,0,0,2,14,1,texture = "planks_big_oak", tint = 0xe3916e },
+    { 1,0,15,2,14,16,texture = "planks_big_oak", tint = 0xe3916e },
+    { 14,0,0,16,14,1,texture = "planks_big_oak", tint = 0xe3916e },
+    { 14,0,15,16,14,16,texture = "planks_big_oak", tint = 0xe3916e },
+    { 15,0,1,16,14,2,texture = "planks_big_oak", tint = 0xe3916e },
+    { 15,0,14,16,14,16,texture = "planks_big_oak", tint = 0xe3916e },
+    { 0,14,0,16,16,16,texture = "planks_big_oak", tint = 0x854836 },
+  }
+}
