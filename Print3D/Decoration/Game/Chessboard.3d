@@ -1,7 +1,7 @@
 -- Needs higher print limit (more than 25 Tiles)
 {
   label = "Chessboard",
-  tooltip = "Querdenker_9 Voxel Block",
+  tooltip = "Querdenker_9 Voxel Design",
   shapes = {
     { 3,0,3,4,1,13,texture = "planks_big_oak", tint = 0x563f2e },
     { 4,0,3,13,1,4,texture = "planks_big_oak", tint = 0x563f2e },
